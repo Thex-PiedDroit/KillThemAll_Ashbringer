@@ -1,0 +1,10 @@
+## Interface: 30400
+## Title: |cff00ccffKillThemAll_Ashbringer|r
+## Version: 1.1.3
+## Notes: Adds Corrupted Ashbringer to KillThemAll
+## Author: Thex
+## DefaultState: enabled
+##Dependencies: KillThemAll
+
+Ashbringer.lua
+Core.lua
